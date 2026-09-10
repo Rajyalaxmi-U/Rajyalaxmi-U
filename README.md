@@ -130,11 +130,10 @@ Machine learning project focused on traffic prediction using predictive modellin
 
 ## 📊 GitHub Stats
 
-![Rajyalaxmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajyalaxmi-U\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rajyalaxmi-U\&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajyalaxmi-U&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=Rajyalaxmi-U&theme=tokyonight" height="170"/>
+</p>
 
 ## 📫 Connect With Me
 
